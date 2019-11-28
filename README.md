@@ -9,7 +9,7 @@ Inspiration, originally 2017:
 
 The process:
 
-    Originally listening to a lecture about linear systems I noticed a special property to Convolution Intergral.
+    Originally listening to a lecture about linear systems I noticed a special property of Convolution Intergral.
     given 2 boolean square signals, the peak of the output function is the maximum value of correlating area under the graph.
     Armed with this idea we represent the subtitles into a boolean function over time and find the phase shift compared to our gold standard.
 
