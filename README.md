@@ -1,7 +1,7 @@
 # Subtitle_Resync
 This module attempts to correct unsynced subtitle files based on already synced subtitles.
 
-Inspiration, originaly 2017: 
+Inspiration, originally 2017: 
 
     There are plenty of raw japanese anime without perfectly timed subtitle for them.
     Anime is aired on TV and as a result many of the raw releases of japanese subtitles have different timings compared to their counterpart English releases.
